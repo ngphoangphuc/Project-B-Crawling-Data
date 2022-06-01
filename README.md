@@ -11,6 +11,10 @@ Here we user input the username and password of mysql:
 ![image](https://user-images.githubusercontent.com/59458687/171361961-d675bf53-46c0-4496-bec7-1fdfbde36abe.png)
 ![image](https://user-images.githubusercontent.com/59458687/171362035-283aa237-248a-4967-b8c7-90aff76eac19.png)
 
+If you don't create database yet, we will create for you:
+
+![image](https://user-images.githubusercontent.com/59458687/171364990-4e576845-ea49-4213-9f0a-c53a97d82fb6.png)
+
 
 First you need to crawl company table. This is the key table of all:
 
